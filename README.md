@@ -1,4 +1,3 @@
-[![MasterHead](https://static.wixstatic.com/media/2c778e_89d09c380b7b4a09bcdbcb329c4734b3~mv2.gif)]
 <h1 align="center">Hi 👋, I'm Asifur Rahman</h1>
 <h3 align="center">A passionate Full-stack Web developer from Bangladesh</h3>
 
