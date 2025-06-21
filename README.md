@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asifur Rahman</h1>
+<h1 align="center">Hi 👋, I'm MD Ashifur Rahman</h1>
 <h3 align="center">A passionate Full-stack Web developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://lavenirtechnologies.com/assets/images/services/software_devlopment.gif" width="300" /> </p>
