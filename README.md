@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Asifur.web@gmail.com**
 
-- ⚡ Fun fact **I do think i'm funny**
+- ⚡ Fun fact **Why am i coding?**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AsifurRahman66544) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_i_shoot_imagination_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asifur-rahman-889103192) 
